@@ -1,5 +1,6 @@
 # 💫 About Me:
 I’m a Computer Engineering student and aspiring software developer, passionate about creating practical, user-focused solutions and enjoy working on projects that help me learn, improve, and grow in the tech space
+
 🎓 B-Tech in Computer Engineering (2023–2027) 
 
 

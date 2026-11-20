@@ -35,25 +35,26 @@
 
 ### 💻 Tech Stack
 
-**Languages**
+**👩‍💻 Programming Languages**
 
 <p>
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js"/>
 </p>
 
-**Frontend Development**
+**🎨 Frontend Development**
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind"/>
 </p>
 
-**Backend & Database**
+**⚙️ Backend & Database**
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql"/>
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-**Data Science & Machine Learning**
+**📊 Data Science & Machine Learning**
 
 <p>
 <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge"/>
@@ -61,7 +62,7 @@
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-**Tools & Design**
+**🛠️ Tools & Design**
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,figma"/>
@@ -75,12 +76,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mansi-1406&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansi-1406&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mansishete14&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansishete14&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=mansi-1406&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=mansishete14&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -90,5 +91,5 @@
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=mansi-1406&label=Profile%20Views&color=blueviolet&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=mansishete14&label=Profile%20Views&color=blueviolet&style=flat"/>
 </p>

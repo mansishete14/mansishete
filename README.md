@@ -3,13 +3,9 @@
 ### 💫 About Me
 
 🎓 Computer Engineering Student passionate about technology and software development.
-
 💻 Interested in Web Development, Artificial Intelligence, Machine Learning and Data Analytics.
-
 🚀 I enjoy building innovative projects and turning creative ideas into practical solutions.
-
 🌱 Constantly exploring new technologies and improving my programming and problem-solving skills.
-
 🤝 Open to collaboration, learning opportunities and exciting tech projects!
 
 ---
